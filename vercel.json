@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/learn-hub/:path*",
+      "destination": "https://rajeevkondapalli.github.io/Learn-Hub/CSE-LearnHub/:path*"
+    }
+  ]
+}
