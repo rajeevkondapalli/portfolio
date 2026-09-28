@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/learn-hub/:path*",
-      "destination": "https://rajeevkondapalli.github.io/Learn-Hub/CSE-LearnHub/:path*"
+      "source": "/learn-hub(.*)",
+      "destination": "https://learn-hub-two-omega.vercel.app/"
     }
   ]
 }
