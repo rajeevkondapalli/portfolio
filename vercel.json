@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/learn-hub(.*)",
-      "destination": "https://learn-hub-two-omega.vercel.app/"
+      "destination": "https://learn-hub-two-omega.vercel.app$1"
     }
   ]
 }
