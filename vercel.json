@@ -6,7 +6,7 @@
     },
     {
       "source": "/brainquest(.*)",
-      "destination": "https://brainquest.antideploy.app$1"
+      "destination": "https://brainquest-opal.vercel.app$1"
     },
     {
       "source": "/google(.*)",
